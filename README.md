@@ -11,6 +11,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Nexus](https://github.com/CodeByFarah/nexus)** | Real-time operations and workflow platform: projects, tasks, incidents, files and a permission-checked AI assistant, with an offline-first mobile app. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch · React Native |
 | **[GameHub](https://github.com/CodeByFarah/gamehub)** | Gaming platform backend: matchmaking, leaderboards, cloud saves and an event-driven pipeline, with architecture tests and infrastructure as code. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Terraform |
 | **[JobTrack](https://github.com/CodeByFarah/jobtracker)** | Full-stack job application tracker with JWT auth, a validated status workflow, interviews, follow-up tasks and a dashboard. | Spring Boot · PostgreSQL · React · TypeScript |
 | **[InsightAI](https://github.com/CodeByFarah/insightAI)** | Upload a CSV and get real statistics, insights and charts. Python does the analysis; an optional AI assistant only explains it. | Python · FastAPI · pandas · scikit-learn · React |
@@ -33,9 +34,11 @@ I care about code that is tested, honest about its limits, and easy for the next
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Data**
