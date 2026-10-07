@@ -11,6 +11,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[ORACLE](https://github.com/CodeByFarah/oracle)** | Market research platform that tries to falsify its own hypotheses: versioned data lake, regime engine, adversarial validation, paper trading and a dashboard. | Python · FastAPI · PostgreSQL · DuckDB |
 | **[Sieve](https://github.com/CodeByFarah/sieve)** | Vulnerability scanner that shows which vulnerable dependencies your code actually reaches, with call-path evidence, human review and VEX output. | Python · FastAPI · PostgreSQL · Next.js · Terraform |
 | **[Nexus](https://github.com/CodeByFarah/nexus)** | Real-time operations and workflow platform: projects, tasks, incidents, files and a permission-checked AI assistant, with an offline-first mobile app. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch · React Native |
 | **[GameHub](https://github.com/CodeByFarah/gamehub)** | Gaming platform backend: matchmaking, leaderboards, cloud saves and an event-driven pipeline, with architecture tests and infrastructure as code. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Terraform |
@@ -46,6 +47,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 **Data**
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Cloud & DevOps**
