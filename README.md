@@ -11,6 +11,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Sieve](https://github.com/CodeByFarah/sieve)** | Vulnerability scanner that shows which vulnerable dependencies your code actually reaches, with call-path evidence, human review and VEX output. | Python · FastAPI · PostgreSQL · Next.js · Terraform |
 | **[Nexus](https://github.com/CodeByFarah/nexus)** | Real-time operations and workflow platform: projects, tasks, incidents, files and a permission-checked AI assistant, with an offline-first mobile app. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch · React Native |
 | **[GameHub](https://github.com/CodeByFarah/gamehub)** | Gaming platform backend: matchmaking, leaderboards, cloud saves and an event-driven pipeline, with architecture tests and infrastructure as code. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Terraform |
 | **[JobTrack](https://github.com/CodeByFarah/jobtracker)** | Full-stack job application tracker with JWT auth, a validated status workflow, interviews, follow-up tasks and a dashboard. | Spring Boot · PostgreSQL · React · TypeScript |
@@ -39,6 +40,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Data**
