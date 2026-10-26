@@ -11,7 +11,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ORACLE](https://github.com/CodeByFarah/oracle)** | Market research platform that tries to falsify its own hypotheses: versioned data lake, regime engine, adversarial validation, paper trading and a dashboard. | Python · FastAPI · PostgreSQL · DuckDB |
+| **[ORACLE](https://github.com/CodeByFarah/oracle)** · [demo](https://codebyfarah.github.io/oracle/) | Personal finance app with a sandbox bank (cards, payments, budgets, fraud screening), a private local AI assistant, and a market research engine that tries to falsify its own hypotheses. | Python · FastAPI · PostgreSQL · DuckDB · Ollama |
 | **[Sieve](https://github.com/CodeByFarah/sieve)** | Vulnerability scanner that shows which vulnerable dependencies your code actually reaches, with call-path evidence, human review and VEX output. | Python · FastAPI · PostgreSQL · Next.js · Terraform |
 | **[Nexus](https://github.com/CodeByFarah/nexus)** | Real-time operations and workflow platform: projects, tasks, incidents, files and a permission-checked AI assistant, with an offline-first mobile app. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch · React Native |
 | **[GameHub](https://github.com/CodeByFarah/gamehub)** | Gaming platform backend: matchmaking, leaderboards, cloud saves and an event-driven pipeline, with architecture tests and infrastructure as code. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Terraform |
