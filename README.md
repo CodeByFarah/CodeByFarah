@@ -15,7 +15,7 @@ I care about code that is tested, honest about its limits, and easy for the next
 | **[Sieve](https://github.com/CodeByFarah/sieve)** | Vulnerability scanner that shows which vulnerable dependencies your code actually reaches, with call-path evidence, human review and VEX output. | Python · FastAPI · PostgreSQL · Next.js · Terraform |
 | **[Nexus](https://github.com/CodeByFarah/nexus)** | Real-time operations and workflow platform: projects, tasks, incidents, files and a permission-checked AI assistant, with an offline-first mobile app. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch · React Native |
 | **[GameHub](https://github.com/CodeByFarah/gamehub)** | Gaming platform backend: matchmaking, leaderboards, cloud saves and an event-driven pipeline, with architecture tests and infrastructure as code. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Terraform |
-| **[JobTrack](https://github.com/CodeByFarah/jobtracker)** | Job application tracker that updates itself from Gmail (read-only OAuth), imports postings from a link with a local AI model, and shows status timelines and interviews. | Spring Boot · PostgreSQL · React · TypeScript · Ollama |
+| **[JobTrack](https://github.com/CodeByFarah/jobtracker)** · [live app](https://codebyfarah.github.io/jobtracker/) | Job application tracker that updates itself from Gmail (read-only OAuth), imports postings from a link with a local AI model, and shows status timelines and interviews. | Spring Boot · PostgreSQL · React · TypeScript · Ollama |
 | **[InsightAI](https://github.com/CodeByFarah/insightAI)** | Upload a CSV and get real statistics, insights and charts. Python does the analysis; an optional AI assistant only explains it. | Python · FastAPI · pandas · scikit-learn · React |
 
 ---
